@@ -1,0 +1,7 @@
+- No import ao usar o " * " eu estou importando tudo que existe na biblioteca.
+
+- O ttk (Themed Tk) no segundo import é um módulo que oferece várias opções de Widgets estilizados e modernos.
+
+- A classe Tk() vem do primeiro import que importa tudo.
+
+- Frame é um conteiner usado para agrupar outros Widgets.
